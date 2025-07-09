@@ -10,6 +10,7 @@ After the modeling is completed, users can:
 
 For citation, please use the following BibTeX entry:
 
+```bibtex
 @software{maulana2025topmod,
   author       = {Maulana, Ikbal},
   title        = {{TopMod} (Version 0.43)},
@@ -18,4 +19,6 @@ For citation, please use the following BibTeX entry:
   address      = {Jakarta, Indonesia},
   institution  = {National Research and Innovation Agency (BRIN)},
 }
+```
+
 
