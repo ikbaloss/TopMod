@@ -18,6 +18,7 @@ For citation, please use the following BibTeX entry:
   type         = {Computer software},
   address      = {Jakarta, Indonesia},
   institution  = {National Research and Innovation Agency (BRIN)},
+  url          = {https://github.com/ikbaloss/TopMod}
 }
 ```
 
